@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tensorcraft",
+  "name": "TensorCraft",
+  "description": "Minecraft TensorFlow integration.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["bengelman (a.k.a. pdogmuncher)"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

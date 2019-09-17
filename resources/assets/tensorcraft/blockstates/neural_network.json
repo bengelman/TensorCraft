@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "tensorcraft:neural_network" }
+        ]
+  }
+}
